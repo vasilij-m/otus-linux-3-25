@@ -175,7 +175,7 @@ Slave queue ID: 0
 
 
 ***Заметка для себя***
-В директории `teaming` лежит исправленный `Vagrantfile` для поднятия и корректной работы network teaming'а. Там же находится ansible-роль _teaming-up_ для конфигурации тиминга между inetRouter и centralRouter. 
+В директории `teaming` лежит исправленный `Vagrantfile` для поднятия стенда в Virtualbox с корректными параметрами сетевых карт для работы network teaming'а. Там же находится ansible-роль _teaming-up_ для конфигурации тиминга между inetRouter и centralRouter. 
 
 
 
